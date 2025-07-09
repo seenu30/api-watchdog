@@ -113,7 +113,7 @@ Respond with a plain-language summary of the changes.`
         // })
         // summaryDiff = chat.choices[0].message.content || "No major changes"
 
-        summaryDiff = "No major changes"
+        summaryDiff = "panda"
       }
 
       // Insert snapshot with all fields
